@@ -1,16 +1,12 @@
-# strawberry-milk README
+# 🍓 Strawberry Milk
 
-## Working with Markdown
+> A premium pastel light theme inspired by strawberry milk, designed for developers who love elegant and cozy workspaces.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+---
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+### ✨ Features
+* **Soft pastel colors** — Easy on the eyes, featuring a gentle and warm aesthetic.
+* **Beautiful syntax highlighting** — Crafted for high code readability and contrast.
+* **Comfortable for long coding sessions** — Minimizes eye strain during extended work.
+* **Optimized for modern tech** — Fully tailored for **JS**, **TS**, **Vue**, **React**, and **HTML/CSS**.
+* **Carefully handcrafted** — Every color in the palette is meticulously selected for perfect harmony.
