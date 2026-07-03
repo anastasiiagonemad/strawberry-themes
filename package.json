@@ -1,0 +1,21 @@
+{
+  "name": "strawberry-milk",
+  "displayName": "Strawberry Milk",
+  "description": "A soft, pastel-inspired light theme designed for comfortable coding.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Strawberry Milk",
+        "uiTheme": "vs",
+        "path": "./themes/Strawberry Milk-color-theme.json"
+      }
+    ]
+  }
+}

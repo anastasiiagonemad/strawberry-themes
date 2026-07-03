@@ -1,0 +1,178 @@
+{
+  "name": "Strawberry Milk",
+  "type": "light",
+  "colors": {
+    "editor.background": "#FFF8FB",
+    "editor.foreground": "#453B42",
+    "editorCursor.foreground": "#F06292",
+    "editor.lineHighlightBackground": "#FFE8F0",
+    "editor.selectionBackground": "#F8BBD066",
+    "editorLineNumber.foreground": "#C7A9B8",
+    "editorLineNumber.activeForeground": "#F06292",
+    "activityBar.background": "#FFEAF2",
+    "activityBar.foreground": "#D81B60",
+    "sideBar.background": "#FFF3F7",
+    "sideBar.foreground": "#453B42",
+    "titleBar.activeBackground": "#FFEAF2",
+    "statusBar.background": "#F8BBD0",
+    "tab.activeBackground": "#FFF8FB",
+    "tab.inactiveBackground": "#FFEAF2",
+    "list.activeSelectionBackground": "#F8BBD0",
+    "list.activeSelectionForeground": "#453B42",
+    "list.activeSelectionIconForeground": "#FFFFFF"
+  },
+  "tokenColors": [
+    {
+      "name": "Comments",
+      "scope": [
+        "comment"
+      ],
+      "settings": {
+        "foreground": "#B0A4AB",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Keywords",
+      "scope": [
+        "keyword",
+        "storage"
+      ],
+      "settings": {
+        "foreground": "#64B5F6"
+      }
+    },
+    {
+      "name": "Operators",
+      "scope": "keyword.operator",
+      "settings": {
+        "foreground": "#C48AA3"
+      }
+    },
+    {
+      "name": "Types",
+      "scope": [
+        "storage.type",
+        "support.type",
+        "entity.name.type"
+      ],
+      "settings": {
+        "foreground": "#B388FF",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Variables",
+      "scope": [
+        "variable",
+        "support.variable"
+      ],
+      "settings": {
+        "foreground": "#D81B60"
+      }
+    },
+    {
+      "name": "Functions",
+      "scope": [
+        "entity.name.function",
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "#EC407A",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Classes",
+      "scope": [
+        "entity.name.type.class",
+        "support.class",
+        "entity.other.inherited-class"
+      ],
+      "settings": {
+        "foreground": "#BA68C8",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Strings",
+      "scope": "string",
+      "settings": {
+        "foreground": "#66BB6A"
+      }
+    },
+    {
+      "name": "Numbers",
+      "scope": [
+        "constant.numeric",
+        "constant.language",
+        "constant"
+      ],
+      "settings": {
+        "foreground": "#FFB74D"
+      }
+    },
+    {
+      "name": "HTML Tags",
+      "scope": [
+        "entity.name.tag",
+        "meta.tag"
+      ],
+      "settings": {
+        "foreground": "#EC407A"
+      }
+    },
+    {
+      "name": "HTML Attributes",
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "foreground": "#F48FB1",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "CSS Selectors",
+      "scope": [
+        "meta.selector",
+        "entity.name.tag.css"
+      ],
+      "settings": {
+        "foreground": "#BA68C8"
+      }
+    },
+    {
+      "name": "CSS Properties",
+      "scope": [
+        "meta.property-name",
+        "support.type.property-name"
+      ],
+      "settings": {
+        "foreground": "#F06292"
+      }
+    },
+    {
+      "name": "CSS Values",
+      "scope": [
+        "meta.property-value",
+        "support.constant.property-value"
+      ],
+      "settings": {
+        "foreground": "#66BB6A"
+      }
+    },
+    {
+      "name": "JSON Keys",
+      "scope": "support.type.property-name.json",
+      "settings": {
+        "foreground": "#EC407A"
+      }
+    },
+    {
+      "name": "Punctuation",
+      "scope": "punctuation",
+      "settings": {
+        "foreground": "#C7A9B8"
+      }
+    }
+  ]
+}
